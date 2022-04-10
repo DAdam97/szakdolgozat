@@ -1,0 +1,34 @@
+{
+	"garden": {
+		"photoRes" : true,
+		"PIREnable" : true,
+		"brightness" : 0,
+		"duration" : 60
+	},
+	"livingroom": {
+		"securityEnable" : false,
+		"breachDetected" : false,
+		"highCO" : false,
+		"brightness" : 0,
+		"doorAngle" : 180,
+		"COppm" : 0
+	},
+	"kitchen": {		
+		"brightness" : 0,
+		"doorAngle" : 180,
+		"termostat" : false,
+		"desiredTemp" : 20
+	},
+	"bathroom": {
+		"brightness" : 0,
+		"shutterAngle" : 180,
+		"shutterAuto" : false,
+		"temperature" : 22,
+		"humidity" : 60
+	},
+	"children": {
+		"brightness" : 0,
+		"shutterAngle" : 180,
+		"shutterAuto" : false
+	}
+}
